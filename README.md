@@ -1,7 +1,7 @@
 # Book-Management-Application
 
-**Overview****
-**The Book Management Application is a Java desktop program that uses a graphical user interface (GUI) to organize and manage book records.
+**Overview**
+The Book Management Application is a Java desktop program that uses a graphical user interface (GUI) to organize and manage book records.
 It allows users to view book information, navigate between records, and add books to a list. Each record can contain a book's title, author's name, email, publication date, page count, and price.
 
 ****Require Data Files****
